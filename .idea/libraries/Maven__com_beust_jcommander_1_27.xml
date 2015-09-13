@@ -8,6 +8,8 @@
     </JAVADOC>
     <SOURCES>
       <root url="jar://$MAVEN_REPOSITORY$/com/beust/jcommander/1.27/jcommander-1.27-sources.jar!/" />
+      <root url="file://$MAVEN_REPOSITORY$/com/beust/jcommander/1.27" />
     </SOURCES>
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/com/beust/jcommander/1.27" recursive="false" type="SOURCES" />
   </library>
 </component>
