@@ -1,7 +1,7 @@
 package RMate;
 
 /**
- * Hello world!
+ * Hello world!Assignment 1
  *
  */
 public class App 
